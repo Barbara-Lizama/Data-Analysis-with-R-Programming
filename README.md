@@ -18,3 +18,4 @@ Diamonds Plots.R
 Penguins Plot.R
 Hotel Bookings Plots.R
 
+[Go to Plots](https://htmlpreview.github.io/?https://github.com/Barbara-Lizama/Data-Analysis-with-R-Programming/blob/master/R-Markdown-Intro.html)
