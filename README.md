@@ -12,7 +12,7 @@ Cleaning.R ------- Bias.R
 
 Same data, different outcome.R
 
-## Analize, Plots and Functions differents library 
+## Analize, Plots and Functions differents library data 
 
 Diamonds Plots.R
 Penguins Plot.R
